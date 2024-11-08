@@ -1,0 +1,1 @@
+# PostgreSQL-primary-read-replica-architecture-using-Terraform-and-Ansible.
